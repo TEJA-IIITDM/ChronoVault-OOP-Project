@@ -1,0 +1,3 @@
+C:/Users/tejas/OneDrive/Desktop/chronovault-website/build/CMakeFiles/ChronoVault.dir
+C:/Users/tejas/OneDrive/Desktop/chronovault-website/build/CMakeFiles/edit_cache.dir
+C:/Users/tejas/OneDrive/Desktop/chronovault-website/build/CMakeFiles/rebuild_cache.dir
